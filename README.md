@@ -3,4 +3,4 @@ Simplilearn Git tutorial!
 
 ## Subheader
 
-Watch tutorial on Youtube.
+Learning Git again for the secon day in a row.
